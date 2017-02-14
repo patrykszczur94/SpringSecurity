@@ -1,0 +1,5 @@
+com/springseciurity/configuration/SpringMvcInitializer.class
+com/springseciurity/configuration/HelloWorldConfiguration.class
+com/springseciurity/controller/SimpleController.class
+com/springseciurity/configuration/SecurityConfiguration.class
+com/springseciurity/configuration/SecurityWebApplicationInitializer.class
